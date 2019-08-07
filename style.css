@@ -228,10 +228,13 @@ a {
   text-decoration: none;
 }
 
-h2 {
+.title {
   margin-left: 20px;
 }
 
+.mid-title, .subscribe-email {
+  color: hsl(243, 87%, 12%);
+}
 
 .footer-title {
   text-align: -webkit-center;
